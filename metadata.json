@@ -1,5 +1,0 @@
-{
-  "name": "AI 이미지 변환기",
-  "description": "이미지를 업로드하고 변환 방법을 설명하면 AI가 이미지를 편집해 줍니다.",
-  "requestFramePermissions": []
-}
